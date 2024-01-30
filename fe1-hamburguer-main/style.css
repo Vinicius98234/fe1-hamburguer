@@ -1,0 +1,33 @@
+img {
+    position: absolute;
+    display: block;
+}
+#pao-topo {
+    margin-top: 200px;
+    margin-left: 500px;
+}
+#alface {
+    z-index: -1;
+    margin-top: 300px;
+    margin-left: 440px;
+}
+#queijo-2 {
+    z-index: -2;
+    margin-top: 330px;
+    margin-left: 475px;
+}
+#hamburguer {
+    z-index: -3;
+    margin-top: 330px;
+    margin-left: 500px;
+}
+#pao-fundo {
+    z-index: -4;
+    margin-top: 400px;
+    margin-left: 500px;
+}
+#sanduiche {
+    margin-left: calc(50% - 600px/2);
+    margin-top: calc(50% - 800px/2);
+    
+}
